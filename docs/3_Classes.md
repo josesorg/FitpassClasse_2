@@ -1,6 +1,6 @@
 ## Aluno
 
-RF01, RF04, RF05, RF06, RF10
+**RF01, RF04, RF05, RF06, RF10**
 
 - idAluno
 - nome
@@ -15,7 +15,7 @@ RF01, RF04, RF05, RF06, RF10
 
 ## Plano
 
-RF01, RF02, RF04
+**RF01, RF02, RF04**
 
 - idPlano
 - nome
@@ -27,7 +27,7 @@ RF01, RF02, RF04
 
 ## Pagamento
 
-RF03, RF04, RF09
+**RF03, RF04, RF09**
 
 - idPagamento
 - data
@@ -39,7 +39,7 @@ RF03, RF04, RF09
 
 ## Acesso
 
-RF05, RF09
+**RF05, RF09**
 
 - idAcesso
 - dataHora
@@ -49,7 +49,7 @@ RF05, RF09
 
 ## Aula
 
-RF06, RF07, RF09
+**RF06, RF07, RF09**
 
 - idAula
 - nome
@@ -60,7 +60,7 @@ RF06, RF07, RF09
 
 ## Agendamento
 
-RF06, RF10
+**RF06, RF10**
 
 - idAgendamento
 - dataReserva
@@ -70,7 +70,7 @@ RF06, RF10
 
 ## Presenca
 
-RF07
+**RF07**
 
 - idPresenca
 - data
@@ -80,7 +80,7 @@ RF07
 
 ## AvaliacaoFisica
 
-RF08, RF10
+**RF08, RF10**
 
 - idAvaliacao
 - data
@@ -94,7 +94,7 @@ RF08, RF10
 
 ## Notificacao
 
-RF10
+**RF10**
 
 - idNotificacao
 - tipo
@@ -106,7 +106,7 @@ RF10
 
 ## Instrutor
 
-RF07, RF08
+**RF07, RF08**
 
 - idInstrutor
 - nome
@@ -116,7 +116,7 @@ RF07, RF08
 
 ## Recepcionista
 
-RF01, RF03
+**RF01, RF03**
 
 - idRecepcionista
 - nome
@@ -125,7 +125,7 @@ RF01, RF03
 
 ## Gerente
 
-RF02, RF09
+**RF02, RF09**
 
 - idGerente
 - nome
